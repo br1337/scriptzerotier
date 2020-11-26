@@ -1,0 +1,2 @@
+# scriptzerotier
+kali
