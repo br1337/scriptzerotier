@@ -1,6 +1,6 @@
 #!/bin/bash
-apt remove zerotier-one
-apt purge zerotier-one
+apt remove -y zerotier-one
+apt purge -y zerotier-one
 rm -rf /var/lib/zerotier-one
 userdel zerotier-one
 sleep 2
